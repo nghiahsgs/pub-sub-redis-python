@@ -6,3 +6,5 @@ pub sub redis python
 
 <img src="demo_python.png"/>
 
+Show tất cả các pubsub (những thằng đang lắng nghe)
+PUBSUB CHANNELS
